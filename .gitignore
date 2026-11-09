@@ -218,4 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-.vs/
+/.vs/
+/data/MOT17-05-FRCNN/img1/
